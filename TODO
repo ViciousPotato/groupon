@@ -1,0 +1,11 @@
+Func
+----
+* 考虑如果今天没活动，或者活动结束的情况
+* 怎么知道有些城市什么时候开业
+  ** 订阅邮件？
+
+Code
+----
+* path problem
+* models.py
+* Put validation in model classes
